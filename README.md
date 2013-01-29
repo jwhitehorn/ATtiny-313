@@ -2,7 +2,7 @@
 
 Open design for a ATtiny2313/4313 development platform.
 
-![render](http://raw.github.com/jwhitehorn/ATtiny-313/master/images/rev2-render.png)
+![render](https://raw.github.com/jwhitehorn/ATtiny-313/master/images/rev2-render.png)
 
 Inspired by:
 
