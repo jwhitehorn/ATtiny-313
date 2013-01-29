@@ -2,6 +2,8 @@
 
 Open design for a ATtiny2313/4313 development platform.
 
+![render](http://raw.github.com/jwhitehorn/ATtiny-313/master/images/rev2-render.png)
+
 Inspired by:
 
 [BB-313](http://www.johngineer.com/projects/bb313/)
