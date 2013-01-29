@@ -2,6 +2,10 @@
 
 Open design for a ATtiny2313/4313 development platform.
 
+Inspired by:
+
+[BB-313](http://www.johngineer.com/projects/bb313/)
+
 #License
 Designs copyright 2013, Jason Whitehorn released under the terms of:
 
