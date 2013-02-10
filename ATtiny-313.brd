@@ -105,11 +105,11 @@
 <plain>
 <wire x1="20.32" y1="7.62" x2="38.405" y2="7.62" width="0" layer="20"/>
 <wire x1="38.405" y1="7.62" x2="39.675" y2="8.89" width="0" layer="20" curve="90"/>
-<wire x1="39.675" y1="8.89" x2="39.675" y2="67.681" width="0" layer="20"/>
-<wire x1="39.675" y1="67.681" x2="38.405" y2="68.951" width="0" layer="20" curve="90"/>
-<wire x1="38.405" y1="68.951" x2="20.32" y2="68.951" width="0" layer="20"/>
-<wire x1="20.32" y1="68.951" x2="17.145" y2="65.776" width="0" layer="20" curve="90"/>
-<wire x1="17.145" y1="65.776" x2="17.145" y2="10.795" width="0" layer="20"/>
+<wire x1="39.675" y1="8.89" x2="39.675" y2="66.665" width="0" layer="20"/>
+<wire x1="39.675" y1="66.665" x2="38.405" y2="67.935" width="0" layer="20" curve="90"/>
+<wire x1="38.405" y1="67.935" x2="20.32" y2="67.935" width="0" layer="20"/>
+<wire x1="20.32" y1="67.935" x2="17.145" y2="64.76" width="0" layer="20" curve="90"/>
+<wire x1="17.145" y1="64.76" x2="17.145" y2="10.795" width="0" layer="20"/>
 <wire x1="17.145" y1="10.795" x2="20.32" y2="7.62" width="0" layer="20" curve="90"/>
 <text x="19.177" y="11.303" size="1.016" layer="21" rot="R90">Rev3</text>
 <text x="20.193" y="8.255" size="1.27" layer="29">ATtiny*313</text>
@@ -142,9 +142,10 @@
 <text x="32.385" y="39.37" size="1.016" layer="21">PD4</text>
 <text x="32.385" y="36.83" size="1.016" layer="21">PD5</text>
 <text x="32.385" y="34.29" size="1.016" layer="21">GND</text>
-<hole x="37.592" y="67.056" drill="2"/>
-<text x="20.32" y="61.976" size="1.27" layer="21" rot="R90">POWER</text>
+<hole x="38.1" y="66.04" drill="2"/>
+<text x="21.844" y="62.992" size="1.27" layer="21" rot="R180">PWR</text>
 <text x="20.828" y="36.576" size="1.27" layer="21" rot="R90">RESET</text>
+<hole x="19.304" y="66.04" drill="2"/>
 </plain>
 <libraries>
 <library name="ic-package">
